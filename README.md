@@ -1,5 +1,9 @@
 # odin-recipes
 
+## Live preview
+
+Please view the live preview [here](https://moitroorgo.github.io/odin-recipes/).
+
 ## Description
 
 **odin-recipes** is a basic recipe website from [Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes) in the [The Odin Project](https://www.theodinproject.com/).
