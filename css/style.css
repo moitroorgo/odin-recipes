@@ -21,9 +21,14 @@
 
 * {
   font-family: "Garamond", "Georgia", "Times New Roman", serif;
+  background-color: honeydew;
 }
 
 img {
   height: auto;
   width: 400px;
+}
+
+.add-heading-color {
+  color: rgb(77, 18, 255);
 }
