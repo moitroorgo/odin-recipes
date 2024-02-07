@@ -22,3 +22,8 @@
 * {
   font-family: "Garamond", "Georgia", "Times New Roman", serif;
 }
+
+img {
+  height: auto;
+  width: 400px;
+}
