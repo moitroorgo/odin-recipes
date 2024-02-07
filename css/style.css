@@ -46,3 +46,18 @@ img {
   color: hsl(223, 61%, 56%);
   background-color: rgba(127, 248, 212, 0.289);
 }
+
+#bulgogi .description.text,
+#bulgogi .ingredients.text,
+#bulgogi .steps.text,
+#pasta .description.text,
+#pasta .ingredients.text,
+#pasta .steps.text,
+#goulash .description.text,
+#goulash .ingredients.text,
+#goulash .steps.text {
+  color: rgb(3, 53, 79);
+  background-color: honeydew;
+  font-size: 15px;
+  font-weight: 300;
+}
