@@ -33,3 +33,16 @@ img {
 .add-heading-color {
   color: rgb(77, 18, 255);
 }
+
+#bulgogi .description,
+#bulgogi .ingredients,
+#bulgogi .steps,
+#pasta .description,
+#pasta .ingredients,
+#pasta .steps,
+#goulash .description,
+#goulash .ingredients,
+#goulash .steps {
+  color: hsl(223, 61%, 56%);
+  background-color: rgba(127, 248, 212, 0.289);
+}
